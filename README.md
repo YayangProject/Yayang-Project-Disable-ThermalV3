@@ -1,0 +1,2 @@
+# Yayang-Project-Disable-ThermalV3
+BEST DISABLE THERMAL FOR MODULE ROOT
