@@ -1,6 +1,6 @@
 {
-  "version": "v3.0",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/download/v3.0/Yayang-Thermal-v3.0.zip",
-  "changelog": "https://raw.githubusercontent.com/YayangProject/Yayang-Project-Disable-ThermalV3/main/changelog.md"
+  "version": "v4.0",
+  "versionCode": 40,
+  "zipUrl": "https://github.com/YayangProject/YayangProject-Disable-ThermalV4/releases/download/v4.0/YayangProject_Disable_Thermal_V4.zip",
+  "changelog": "## v4.0 - 2024\n- Initial release of V4\n- Complete thermal protection disable\n- Enhanced GPU/CPU performance\n- Removed all brightness limits\n- Disabled charging restrictions\n- Optimized modem/WiFi throttling\n- Improved gaming performance\n- Better battery charging management"
 }
