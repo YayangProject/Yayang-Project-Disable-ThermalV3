@@ -1,203 +1,95 @@
-🔥 YayangProject Thermal Disable V4 Extreme 🔥
+# 🔥 YAYANGPROJECT THERMAL DISABLE V4 EXTREME 🔥
 
-https://img.shields.io/badge/Android-10%2B-brightgreen
-https://img.shields.io/badge/Magisk-20.0%2B-orange
-https://img.shields.io/badge/KernelSU-Supported-yellow
-https://img.shields.io/badge/License-MIT-blue
-https://img.shields.io/badge/Version-V4-red
-https://img.shields.io/badge/Status-Extreme-orange
-https://img.shields.io/badge/Thermal-Disabled-important
+<div align="center">
 
-📱 Ultimate Thermal Management & Performance Boost Module
+![Banner](https://img.shields.io/badge/YAYANG_PROJECT-THERMAL_DISABLE_V4-FF6B00?style=for-the-badge&logo=fire&logoColor=white)
+![Version](https://img.shields.io/badge/VERSION-4.0_EXTREME-FF4444?style=for-the-badge)
+![Android](https://img.shields.io/badge/ANDROID-10_to_16+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Root](https://img.shields.io/badge/ROOT-MAGISK%20%7C%20KERNELSU%20%7C%20SUKISU%20%7C%20KITSUNE-FF9900?style=for-the-badge)
 
-Advanced Magisk/KernelSU module untuk menonaktifkan thermal throttling dan meningkatkan performa device secara maksimal dengan kontrol yang aman!
+</div>
 
----
-
-⚠️ CRITICAL WARNING
-
-MODULE INI MENONAKTIFKAN PROTEKSI THERMAL DEVICE!
-
-· 🔥 Risiko overheat pada penggunaan berat
-· 📛 Gunakan dengan tanggung jawab penuh
-· 🌡️ Monitor suhu device secara berkala
-· ⚠️ Tidak untuk penggunaan sehari-hari
+## ⚠️ CRITICAL WARNING
+**MODULE INI MENONAKTIFKAN SEMUA PROTEKSI THERMAL!**  
+Gunakan dengan tanggung jawab penuh dan monitor suhu device secara berkala.
 
 ---
 
-⬇️ Download Thermal Disable V4
+## 🚀 DOWNLOAD & INSTALL
 
-https://img.shields.io/badge/Download-V4_Extreme-FF4444?style=for-the-badge&logo=thermometer&logoColor=white
+<div align="center">
 
-🔗 Direct Download:
-https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/download/4.0/YayangProject.Thermal.Disable.V4.zip
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V4_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/YayangProject-Disable-ThermalV4/releases/download/v4.0/YayangProject_Disable_Thermal_V4.zip)
 
----
+</div>
 
-✨ Extreme Features
-
-🚀 Performance Boost
-
-· Extreme CPU/GPU Performance - Maximum clock speeds maintained
-· Zero Thermal Throttling - No performance degradation due to heat
-· Pro Gaming Mode - Consistent FPS in heavy games
-· Hyper Charging Support - Faster charging without thermal limits
-
-🔧 Thermal Control
-
-· Advanced Thermal Management - Custom thermal thresholds
-· Intelligent Heat Dissipation - Optimized cooling algorithms
-· Safe Temperature Monitoring - Real-time thermal monitoring
-· Adaptive Performance - Smart performance balancing
-
-⚡ System Optimization
-
-· Kernel-Level Thermal Control - Deep system integration
-· Battery Efficiency - Optimized power management
-· System Stability Core - Maintain stability under load
-· Hardware Protection - Safe hardware operation
+### 📥 Quick Install:
+1. **Download** file di atas
+2. **Flash** via Magisk/KernelSU/Sukisu/Kitsune
+3. **Reboot** device
+4. **Enjoy** maximum performance!
 
 ---
 
-🛠️ Installation
+## ✨ FEATURE HIGHLIGHTS
 
-Magisk Installation:
+<div align="center">
 
-1. Download V4 menggunakan tombol di atas
-2. Buka Magisk Manager → Modules → Install from Storage
-3. Pilih file zip yang didownload
-4. Reboot device Anda
-5. Nikmati performa maksimal!
+| 🔥 PERFORMANCE | ⚡ THERMAL CONTROL | 🎮 GAMING |
+|:--------------:|:------------------:|:---------:|
+| CPU/GPU Boost | Zero Throttling | Pro Mode |
+| Max Frequency | Heat Management | Smooth Game |
+| Speed Optimize | Temp Monitoring | Stable FPS |
 
-KernelSU Installation:
+| 🔋 CHARGING | 📶 CONNECTIVITY | 💡 DISPLAY |
+|:-----------:|:---------------:|:----------:|
+| Hyper Charge | Modem Boost | Bright Max |
+| Fast Charging | WiFi Optimize | No Dimming |
+| Current Max | Signal Stable | HBM Enable |
 
-1. Download V4 menggunakan tombol di atas
-2. Buka KernelSU Manager → Modules → Install from storage
-3. Pilih file zip yang didownload
-4. Reboot device Anda
-
----
-
-📊 Compatibility
-
-· Android Versions: 10 (Q) to Android 16+
-· Root Solutions: Magisk & KernelSU Supported
-· Device Support: Semua perangkat Android dengan root access
-· Architecture: ARM, ARM64, x86, x86_64
+</div>
 
 ---
 
-🔧 Technical Details
+## 🛠️ COMPATIBILITY
 
-Thermal Optimizations
+<div align="center">
 
-· Thermal zone parameter modifications
-· Temperature threshold adjustments
-· Cooling device optimization
-· Thermal core framework tuning
+![Platform](https://img.shields.io/badge/PLATFORM-ANDROID_ROOT-3DDC84?style=flat-square)
+![Arch](https://img.shields.io/badge/ARCH-ARM%2FARM64%2Fx86-0095D5?style=flat-square)
+![Root](https://img.shields.io/badge/SUPPORTED-MAGISK%20%7C%20KERNELSU%20%7C%20SUKISU%20%7C%20KITSUNE-FF9900?style=flat-square)
 
-Performance Enhancements
+</div>
 
-· CPU frequency scaling unlock
-· GPU performance boost
-· Memory bandwidth optimization
-· I/O scheduler improvements
-
----
-
-📈 Performance Results
-
-Users typically experience:
-
-· 40-80% improved gaming performance
-· Eliminated thermal throttling in benchmarks
-· Consistent high FPS in heavy games
-· Faster app loading dan system responsiveness
+**Supported:** 
+- **Android:** 10, 11, 12, 13, 14, 15, 16+
+- **Root Solutions:** Magisk, KernelSU, Sukisu, Kitsune
+- **Architecture:** ARM, ARM64, x86, x86_64
 
 ---
 
-🔄 Update Information
+## 📊 PERFORMANCE RESULTS
 
-Module ini mendukung notifikasi update otomatis melalui Magisk.
-
-Current Version: V4 (Extreme)
-Latest Version Code: 4
-
----
-
-🤝 Contributing
-
-Kami menerima kontribusi! Silakan:
-
-· Laporkan bug dan issues
-· Sarankan fitur baru
-· Submit pull requests
-· Tingkatkan dokumentasi
+- **🎯 40-80%** Gaming Performance Boost
+- **⚡ 100%** Thermal Throttling Eliminated  
+- **📈 Consistent** Performance in Heavy Games
+- **🚀 Faster** App Loading Times
 
 ---
 
-📞 Support & Community
+## 🎯 TECHNICAL FEATURES
 
-Join komunitas kami untuk support dan update:
-
-https://img.shields.io/badge/Telegram-Join_Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/Instagram-@yayangshibainu-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Star_Repo-181717?style=for-the-badge&logo=github&logoColor=white
-
----
-
-⚠️ Disclaimer
-
-MODULE INI BERISIKO TINGGI!
-
-· Device dapat overheat dan rusak permanen
-· Gunakan hanya untuk benchmarking atau gaming sesekali
-· Penulis tidak bertanggung jawab atas kerusakan device
-· Selalu backup data penting
-
----
-
-📄 License
-
-Project ini dilisensikan under MIT License - lihat file LICENSE untuk detail.
-
----
-
-🐕 About YayangShibainuProject
-
-YayangShibainuProject berdedikasi membuat tool optimisasi Android berkualitas tinggi dengan semangat PSHT!
-
-🌟 Jika project ini membantu, beri bintang! 🌟
-
----
-
-🔄 Changelog
-
-V4 (Current) - EXTREME EDITION
-
-· ✅ Advanced thermal control dengan safety limits
-· ✅ Improved performance tanpa compromise stability
-· ✅ Better monitoring dan protection systems
-· ✅ Enhanced compatibility untuk lebih banyak devices
-
-V3 - IMPROVED
-
-· Thermal management improvements
-· Better safety protocols
-· Enhanced performance algorithms
-
----
-
-📥 Download Section
-
-Latest Extreme Release (V4):
-
-https://img.shields.io/badge/Download-V4_Extreme-FF6B6B?style=for-the-badge&logo=download&logoColor=white
-
-File Name: YayangProject.Thermal.Disable.V4.zip
-Risk Level: ⚠️ HIGH (Extreme Performance)
-Recommended For: Advanced Users Only
-
----
-
-🔥 Unleash Maximum Performance with Thermal Disable V4! 🔥
+```yaml
+thermal_control:
+  gpu_throttle: "disabled"
+  cpu_throttle: "disabled" 
+  brightness_limit: "removed"
+  charging_limit: "removed"
+  modem_throttle: "disabled"
+  wifi_throttle: "disabled"
+  
+performance:
+  gaming_mode: "extreme"
+  charging_speed: "maximum"
+  display_brightness: "unlocked"
+  connectivity: "optimized"
