@@ -19,7 +19,7 @@ Gunakan dengan tanggung jawab penuh dan monitor suhu device secara berkala.
 
 <div align="center">
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V5_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/tag/5.0)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V5_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/download/5.0/YayangProject.Disable.ThermalV5.zip)
 
 </div>
 
