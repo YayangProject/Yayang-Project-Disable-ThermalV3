@@ -1,4 +1,4 @@
-# 🔥 YAYANGPROJECT THERMAL DISABLE V4 EXTREME 🔥
+# 🔥 YAYANGPROJECT THERMAL DISABLE V5 GAMING EXTREME 🔥
 
 <div align="center">
 
@@ -19,7 +19,7 @@ Gunakan dengan tanggung jawab penuh dan monitor suhu device secara berkala.
 
 <div align="center">
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V4_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/YayangProject-Disable-ThermalV4/releases/download/v4.0/YayangProject_Disable_Thermal_V4.zip)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V4_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/tag/5.0)
 
 </div>
 
