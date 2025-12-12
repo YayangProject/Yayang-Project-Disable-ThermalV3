@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Banner](https://img.shields.io/badge/YAYANG_PROJECT-THERMAL_DISABLE_V4-FF6B00?style=for-the-badge&logo=fire&logoColor=white)
-![Version](https://img.shields.io/badge/VERSION-4.0_EXTREME-FF4444?style=for-the-badge)
+![Banner](https://img.shields.io/badge/YAYANG_PROJECT-THERMAL_DISABLE_V5-FF6B00?style=for-the-badge&logo=fire&logoColor=white)
+![Version](https://img.shields.io/badge/VERSION-5.0_EXTREME-FF4444?style=for-the-badge)
 ![Android](https://img.shields.io/badge/ANDROID-10_to_16+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Root](https://img.shields.io/badge/ROOT-MAGISK%20%7C%20KERNELSU%20%7C%20SUKISU%20%7C%20KITSUNE-FF9900?style=for-the-badge)
 
@@ -19,7 +19,7 @@ Gunakan dengan tanggung jawab penuh dan monitor suhu device secara berkala.
 
 <div align="center">
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V4_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/tag/5.0)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_V5_EXTREME-FF2222?style=for-the-badge&logo=download&logoColor=white)](https://github.com/YayangProject/Yayang-Project-Disable-ThermalV3/releases/tag/5.0)
 
 </div>
 
